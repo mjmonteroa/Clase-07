@@ -1,6 +1,6 @@
 [
     {
-        "nombre": "Servicos",
+        "nombre": "Servicos y Contextos",
         "fotos": ["https://picsum.photos/id/785/500/310", "https://picsum.photos/id/789/500/310", "https://picsum.photos/id/786/500/310"],
         "soporte": "servicios",
         "abstract": "Estos proyectos consisten en la adaptación del usuario a distintos contextos",
@@ -14,7 +14,7 @@
         "texto": "La colección textil de la Cordillera de los Andes es una obra de arte en sí misma. Los diseños intrincados y los colores vibrantes reflejan la rica historia y la cultura de los pueblos indígenas que han habitado esta región durante siglos. Las prendas de vestir, tejidas a mano con lana de alpaca y vicuña, son suaves y cómodas al tacto, pero también duraderas y resistentes al clima extremo de las alturas. Cada pieza es única y tiene un significado especial, transmitido de generación en generación. La colección es un testimonio del ingenio y la creatividad de estos pueblos, y un tributo a su profundo respeto por la naturaleza y su entorno montañoso."
     },
     {
-        "nombre": "Editorial",
+        "nombre": "Editorial y Naturalesa",
         "fotos": ["https://picsum.photos/id/834/500/310", "https://picsum.photos/id/668/500/310", "https://picsum.photos/id/882/500/310"],
         "soporte": "editorial",
         "abstract": "Construir un libro en base a la naturaleza",
@@ -35,21 +35,21 @@
         "texto": "Las colecciones de moda en base a un plano geométrico son una tendencia cada vez más popular en el mundo del diseño de moda. Esta técnica de diseño se basa en el uso de patrones geométricos y formas simples para crear prendas únicas y sorprendentes. Los planos geométricos se pueden utilizar de diversas formas en la creación de prendas, desde estampados y bordados hasta la construcción misma de la prenda. Esta técnica permite la creación de diseños abstractos, minimalistas y modernos que atraen a una audiencia joven y vanguardista. Además, la colección en base a un plano geométrico es una opción ideal para aquellos diseñadores que buscan experimentar con formas y texturas, ya que permite crear prendas que son verdaderas obras de arte y que destacan por su originalidad y creatividad."
     },
     {
-        "nombre": "Editorial",
+        "nombre": "Editorial Infantil",
         "fotos": ["https://picsum.photos/id/366/500/310", "https://picsum.photos/id/998/500/310", "https://picsum.photos/id/435/500/310"],
         "soporte": "editorial",
         "abstract": "Construcción de un libro que contenga cuentos infantiles",
         "texto": "La construcción de un libro de cuentos infantiles es una tarea gratificante y llena de creatividad. Los cuentos infantiles son una herramienta esencial para la educación y el entretenimiento de los más pequeños, y construir un libro que los contenga es una oportunidad para desarrollar historias creativas y divertidas que capturarán la imaginación de los niños. Además, la construcción de un libro de cuentos infantiles también puede ser una actividad enriquecedora para compartir en familia, fomentando la lectura y el amor por los libros desde temprana edad. Para construir un libro de cuentos infantiles, se pueden utilizar diferentes técnicas de ilustración, desde dibujos a mano hasta imágenes digitales, y se pueden desarrollar historias en torno a valores y enseñanzas importantes para los niños."
     },
     {
-        "nombre": "Servicios",
+        "nombre": "Servicios y Comodidad",
         "fotos": ["https://picsum.photos/id/201/500/310", "https://picsum.photos/id/1043/500/310", "https://picsum.photos/id/1044/500/310"],
         "soporte": "servicios",
         "abstract": "Un proyecto que se basa en la comodidad de las personas",
         "texto": "Estos proyectos buscan mejorar la calidad de vida de las personas a través de soluciones que les permitan sentirse más cómodos y seguros en su entorno. Por ejemplo, en el diseño de productos, se pueden crear artículos que se adapten a las necesidades y preferencias del usuario, ofreciendo una experiencia de uso más agradable y cómoda. En la arquitectura y el urbanismo, se pueden diseñar espacios que se adapten a las necesidades de las personas, por ejemplo, con mobiliario ergonómico y diseños accesibles para personas con discapacidades. En definitiva, los proyectos que se basan en la comodidad de las personas son una excelente oportunidad para fomentar el bienestar y la felicidad de las personas, ofreciendo soluciones que se ajusten a sus necesidades y preferencias."
     },
     {
-        "nombre": "Servicos",
+        "nombre": "Servicos y Calidad de Vida",
         "fotos": ["https://picsum.photos/id/180/500/310", "https://picsum.photos/id/1054/500/310", "https://picsum.photos/id/1060/500/310"],
         "soporte": "servicios",
         "abstract": "Basado en la calidad de vida de las personas",
