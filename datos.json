@@ -1,48 +1,48 @@
 [
     {
-        "nombre": "Kamba",
+        "nombre": "Servicos",
         "fotos": ["https://picsum.photos/id/119/500/310", "https://picsum.photos/id/157/500/310", "https://picsum.photos/id/164/500/310"],
         "soporte": "servicios",
         "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
         "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
     },
     {
-        "nombre": "Segundo título",
+        "nombre": "Colección 01",
         "fotos": ["https://picsum.photos/id/3/500/310", "https://picsum.photos/id/3/500/310", "https://picsum.photos/id/3/500/310"],
         "soporte": "textil",
         "abstract": "Sed feugiat laoreet tellus quis ullamcorper",
         "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
     },
     {
-        "nombre": "Tercer título",
+        "nombre": "Editorial",
         "fotos": ["https://picsum.photos/id/464/500/310", "https://picsum.photos/id/464/500/310", "https://picsum.photos/id/464/500/310"],
         "soporte": "editorial",
         "abstract": "Consectetur adipiscing elit, sed feugiat laoreet tellus",
         "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
     },
     {
-        "nombre": "Cuarto título",
+        "nombre": "Colección 02",
         "fotos": ["https://picsum.photos/id/39/500/310", "https://picsum.photos/id/39/500/310", "https://picsum.photos/id/39/500/310"],
         "soporte": "textil",
         "abstract": "Nunc efficitur commodo risus, at sagittis dui accumsan",
         "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
     },
     {
-        "nombre": "Quinto título",
+        "nombre": "Colección 03",
         "fotos": ["https://picsum.photos/id/42/500/310", "https://picsum.photos/id/42/500/310", "https://picsum.photos/id/42/500/310"],
-        "soporte": "industrial",
+        "soporte": "textil",
         "abstract": "Donec risus neque, efficitur in sollicitudin vestibulum",
         "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
     },
     {
-        "nombre": "Sexto título",
+        "nombre": "Editorial",
         "fotos": ["https://picsum.photos/id/435/500/310", "https://picsum.photos/id/435/500/310", "https://picsum.photos/id/435/500/310"],
         "soporte": "editorial",
         "abstract": "Suspendisse dui nulla, facilisis lobortis tortor",
         "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed feugiat laoreet tellus quis ullamcorper. Suspendisse sit amet blandit urna. Integer et mollis odio. Phasellus a arcu urna. Nunc efficitur commodo risus, at sagittis dui accumsan at. Nunc est augue, auctor a odio sed, dapibus iaculis est. Sed ultrices luctus purus ac venenatis. Mauris ac lectus eu felis fermentum facilisis et a nunc. Cras pretium suscipit nibh sed finibus. Donec risus neque, efficitur in sollicitudin vestibulum, cursus gravida dui. Suspendisse dui nulla, convallis non facilisis a, convallis lobortis tortor. Nam nec eros fringilla, ultrices velit in, dapibus magna. Proin at pretium arcu. Donec convallis justo nulla, et ultrices sem fringilla non. In eget mi lectus"
     },
     {
-        "nombre": "Séptimo título",
+        "nombre": "Servicios",
         "fotos": ["https://picsum.photos/id/20/500/310", "https://picsum.photos/id/20/500/310", "https://picsum.photos/id/20/500/310"],
         "soporte": "servicios",
         "abstract": "Nam nec eros fringilla, ultrices velit in, dapibus",
